@@ -1,0 +1,9 @@
+{
+	"name": "onnx_dlang",
+	"authors": [
+		"Christian Convey"
+	],
+	"description": "a",
+	"copyright": "Copyright © 2018, Christian Convey",
+	"license": "Apache 2.0"
+}

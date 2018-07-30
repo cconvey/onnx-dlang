@@ -1,0 +1,8 @@
+[submodule "3rdparty/msoucy/dproto"]
+	path = 3rdparty/msoucy/dproto
+	url = https://github.com/msoucy/dproto.git
+	branch = master
+[submodule "3rdparty/onnx/onnx"]
+	path = 3rdparty/onnx/onnx
+	url = https://github.com/onnx/onnx.git
+	branch = master
